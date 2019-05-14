@@ -67,7 +67,7 @@ c = int(input('please enter 3rd number: '))
 if a>b and a>c:
     print(' 1st number is greater ')
 elif b>c and b>a:
-    print(' 2nd number is greater ')
+    print(' 2nd nummdber is greater ')
 elif c>a and c>b:
     print(' 3rd number is greater ')
 else:
